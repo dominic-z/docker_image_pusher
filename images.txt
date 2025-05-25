@@ -3,7 +3,8 @@ alpine:3
 nginx:1.28.0
 nginx:1.27.3
 # gcr.io/google_samples/gb-frontend:v5
-gcr.io/google_samples/gb-frontend:v5
+anjia0532/google_samples.gb-frontend:v5
+
 # gcr.io/google-samples/hello-app:1.0
 gcr.io/google-samples/hello-app:1.0
 
