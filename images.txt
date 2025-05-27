@@ -3,6 +3,7 @@ alpine:3
 nginx:1.28.0
 nginx:1.27.3
 perl:5.41.12
+python:3.9.22
 # gcr.io/google_samples/gb-frontend:v5
 anjia0532/google_samples.gb-frontend:v5
 
