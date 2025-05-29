@@ -6,6 +6,8 @@ perl:5.41.12
 python:3.9.22
 ubuntu:24.04
 yauritux/busybox-curl:latest
+# nb开发小工具？
+devwithlando/util:4
 # gcr.io/google_samples/gb-frontend:v5
 anjia0532/google_samples.gb-frontend:v5
 
