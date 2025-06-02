@@ -6,8 +6,9 @@ perl:5.41.12
 python:3.9.22
 ubuntu:24.04
 yauritux/busybox-curl:latest
-# nb开发小工具？
-devwithlando/util:4
+debian:12.11
+# quay.io/crio/artifact:v2
+anjia0532/quay.crio.artifact:v2 
 # gcr.io/google_samples/gb-frontend:v5
 anjia0532/google_samples.gb-frontend:v5
 
