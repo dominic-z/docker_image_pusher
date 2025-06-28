@@ -25,3 +25,8 @@ anjia0532/quay.fluentd_elasticsearch.fluentd:v4
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+# es
+logstash:7.17.25
+elasticsearch:7.17.25
+kibana:7.17.25
