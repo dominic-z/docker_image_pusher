@@ -30,3 +30,4 @@ anjia0532/quay.fluentd_elasticsearch.fluentd:v4
 logstash:7.17.25
 elasticsearch:7.17.25
 kibana:7.17.25
+elastic/filebeat:7.17.25
