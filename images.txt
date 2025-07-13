@@ -31,3 +31,10 @@ logstash:7.17.25
 elasticsearch:7.17.25
 kibana:7.17.25
 elastic/filebeat:7.17.25
+
+
+# redis
+redis:8.0.3
+
+# mq
+bitnami/kafka:3.9.0
