@@ -39,6 +39,8 @@ redis:8.0.3
 # mq
 bitnami/kafka:3.9.0
 
+nacos/nacos-server:v3.0.2
+
 
 zookeeper:3.9.3
 bitnami/etcd:3.6.2
