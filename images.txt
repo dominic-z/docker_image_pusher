@@ -1,46 +1,49 @@
-busybox:1.37.0
-alpine:3
-nginx:1.28.0
-nginx:1.27.3
-perl:5.41.12
-python:3.9.22
-ubuntu:24.04
-yauritux/busybox-curl:latest
-debian:12.11
+# busybox:1.37.0
+# alpine:3
+# nginx:1.28.0
+# nginx:1.27.3
+# perl:5.41.12
+# python:3.9.22
+# ubuntu:24.04
+# yauritux/busybox-curl:latest
+# debian:12.11
 # quay.io/crio/artifact:v2
-anjia0532/quay.crio.artifact:v2 
+# anjia0532/quay.crio.artifact:v2 
 # gcr.io/google_samples/gb-frontend:v5
-anjia0532/google_samples.gb-frontend:v5
+# anjia0532/google_samples.gb-frontend:v5
 
 # gcr.io/google-samples/hello-app:1.0
-gcr.io/google-samples/hello-app:1.0
+# gcr.io/google-samples/hello-app:1.0
 # registry.k8s.io/nginx-slim:0.24
-anjia0532/google-containers.nginx-slim:0.24
+# anjia0532/google-containers.nginx-slim:0.24
 # quay.io/fluentd_elasticsearch/fluentd:v4
-anjia0532/quay.fluentd_elasticsearch.fluentd:v4
+# anjia0532/quay.fluentd_elasticsearch.fluentd:v4
 
 
 # 支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # es
-logstash:7.17.25
-elasticsearch:7.17.25
-kibana:7.17.25
-elastic/filebeat:7.17.25
+# logstash:7.17.25
+# elasticsearch:7.17.25
+# kibana:7.17.25
+# elastic/filebeat:7.17.25
 
 
 # redis
-redis:8.0.3
+# redis:8.0.3
 
 # mq
-bitnami/kafka:3.9.0
+# bitnami/kafka:3.9.0
 
-nacos/nacos-server:v3.0.2
+# nacos/nacos-server:v3.0.2
 
 
-zookeeper:3.9.3
-bitnami/etcd:3.6.2
+# zookeeper:3.9.3
+# bitnami/etcd:3.6.2
+
+# db
+mysql:8.4.6
