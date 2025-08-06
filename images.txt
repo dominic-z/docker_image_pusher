@@ -26,12 +26,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-# es
-# logstash:7.17.25
-# elasticsearch:7.17.25
-# kibana:7.17.25
-# elastic/filebeat:7.17.25
-
 
 # redis
 # redis:8.0.3
@@ -46,4 +40,15 @@
 # bitnami/etcd:3.6.2
 
 # db
-mysql:8.4.6
+# mysql:8.4.6
+
+
+# es
+# logstash:7.17.25
+# elasticsearch:7.17.25
+# kibana:7.17.25
+# elastic/filebeat:7.17.25
+elasticsearch:8.11.4
+kibana:8.11.4
+logstash:8.11.4
+elastic/filebeat:8.11.4
