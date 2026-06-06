@@ -32,6 +32,7 @@
 
 # mq
 # bitnami/kafka:3.9.0
+apache/rocketmq:5.5.0
 
 # nacos/nacos-server:v3.0.2
 
@@ -48,7 +49,9 @@
 # elasticsearch:7.17.25
 # kibana:7.17.25
 # elastic/filebeat:7.17.25
-elasticsearch:8.11.4
-kibana:8.11.4
-logstash:8.11.4
-elastic/filebeat:8.11.4
+# elasticsearch:8.11.4
+# kibana:8.11.4
+# logstash:8.11.4
+# elastic/filebeat:8.11.4
+
+
