@@ -37,7 +37,8 @@
 # apache/rocketmq:5.5.0
 
 # prometheus
-prom/prometheus:v3.5.4
+# prom/prometheus:v3.5.4
+prom/node-exporter:v1.11.1
 
 
 # nacos/nacos-server:v3.0.2
