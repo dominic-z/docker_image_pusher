@@ -27,7 +27,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # coredns
-coredns/coredns:1.14.4
+# coredns/coredns:1.14.4
 
 # redis
 # redis:8.0.3
@@ -35,6 +35,10 @@ coredns/coredns:1.14.4
 # mq
 # bitnami/kafka:3.9.0
 # apache/rocketmq:5.5.0
+
+# prometheus
+prom/prometheus:v3.5.4
+
 
 # nacos/nacos-server:v3.0.2
 
