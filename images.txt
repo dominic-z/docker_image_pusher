@@ -38,8 +38,8 @@
 
 # prometheus
 # prom/prometheus:v3.5.4
-prom/node-exporter:v1.11.1
-
+# prom/node-exporter:v1.11.1
+grafana/grafana:11.6.16
 
 # nacos/nacos-server:v3.0.2
 
