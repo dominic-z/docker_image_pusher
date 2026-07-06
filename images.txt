@@ -28,8 +28,9 @@
 
 # k8s
 # gcr.io/k8s-minikube/kicbase:v0.0.46
-docker.io/kubernetesui/metrics-scraper:v1.0.8
-docker.io/kubernetesui/dashboard:v2.7.0
+# docker.io/kubernetesui/metrics-scraper:v1.0.8
+# docker.io/kubernetesui/dashboard:v2.7.0
+registry.k8s.io/e2e-test-images/agnhost:2.53
 
 
 # coredns
