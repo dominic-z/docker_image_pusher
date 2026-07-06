@@ -26,6 +26,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+# k8s
+gcr.io/k8s-minikube/kicbase:v0.0.46
+
 # coredns
 # coredns/coredns:1.14.4
 
@@ -39,7 +42,7 @@
 # prometheus
 # prom/prometheus:v3.5.4
 # prom/node-exporter:v1.11.1
-grafana/grafana:11.6.16
+# grafana/grafana:11.6.16
 
 # nacos/nacos-server:v3.0.2
 
