@@ -34,7 +34,9 @@
 # registry.k8s.io/metrics-server/metrics-server:v0.7.2
 # gcr.io/google-samples/kubernetes-bootcamp:v1
 # docker.io/jocatalin/kubernetes-bootcamp:v2
-registry.k8s.io/pause:3.1
+# registry.k8s.io/pause:3.1
+registry.k8s.io/ingress-nginx/controller:v1.11.3
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
 
 
 # coredns
